@@ -83,3 +83,4 @@ $ ionic cordova platform add ios // Add ios platform
 $ ionic cordova run ios // Run on ios
 $ ionic cordova run android // Run on android
 ```
+
