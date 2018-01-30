@@ -1,8 +1,8 @@
-# Facebook clone in Ionic 3 and firebase
+ ## Facebook clone in Ionic 3 and firebase
 
 This application has covered everything that you need in ionic 3 and firebase. This is full fledge of Facebook clone(same like facebook application functionality). Facebook is very familiar social app. This code is written in IONIC 3 Framework and Firebase 3. This Application is tested on IOS &amp; Android device. In this 1st version implement basic functionality like register, login, add a new post, like the post, dislike, comment, update profile, view profile, share location, share image and Firebase chatting
 
-# Info
+## Info
   
   1. **Technology :** Ionic 3 and firebase
   2. **Ionic Version :** 3.7.0
@@ -11,14 +11,14 @@ This application has covered everything that you need in ionic 3 and firebase. T
   5. **Tool :** Visual Code
   6. **Code management :** Bitbucate
   
-# Buy Code
+## Buy Code
 
     You can buy full app source code with installation document and support onlu in $29.
     
    Url : [here](codester.com/items/3213/facebook-clone-in-ionic-and-firebase)
     
     
-# Demonstration
+## Demonstration
 	
    **Version 1.0 :** [Demo1](https://www.youtube.com/watch?v=nLdP8p1URXw)
    
@@ -26,7 +26,7 @@ This application has covered everything that you need in ionic 3 and firebase. T
    
    **Version 2.0 :**  Will release asap.
    
-# Features
+## Features
 	
  **Version 1.0**
  
@@ -65,7 +65,7 @@ This application has covered everything that you need in ionic 3 and firebase. T
    Note : If you have any suggestion or any extra feature you want in next release please mail us (mayorainfotech@gmail.com).
    
    
-# How to run project:
+## How to run project:
 
 1. Download code [from](codester.com/items/3213/facebook-clone-in-ionic-and-firebase).
 2. Install Ionic and cordova
@@ -83,11 +83,3 @@ $ ionic cordova platform add ios // Add ios platform
 $ ionic cordova run ios // Run on ios
 $ ionic cordova run android // Run on android
 ```
-
-
-   
-   
-   
-  
-
-   
