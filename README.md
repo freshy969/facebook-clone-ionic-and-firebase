@@ -84,12 +84,6 @@ $ ionic cordova run ios // Run on ios
 $ ionic cordova run android // Run on android
 ```
 
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
 
    
    
