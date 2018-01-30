@@ -20,11 +20,11 @@ This application has covered everything that you need in ionic 3 and firebase. T
     
 # Demonstration
 	
-   **Version 1.0 : ** [Demo1](https://www.youtube.com/watch?v=nLdP8p1URXw)
+   **Version 1.0 :** [Demo1](https://www.youtube.com/watch?v=nLdP8p1URXw)
    
-   **Version 1.0 : ** [Demo2](https://www.youtube.com/watch?v=0XYHsD8wED8&t=4s)
+   **Version 1.0 :** [Demo2](https://www.youtube.com/watch?v=0XYHsD8wED8&t=4s)
    
-   **Version 2.0 : **  Will release asap.
+   **Version 2.0 :**  Will release asap.
    
 # Features
 	
