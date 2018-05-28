@@ -57,10 +57,18 @@ This application has covered everything that you need in ionic 3 and firebase. T
 
  **Version 3.0**
    	
-   Coming soon with new funcationality and bug fixes
-   1. Login with phone number
-   2. UI change
-   3. Many more
+  1. Log in with a phone number
+  2. Contact sync
+  3. UI change
+  4. audio sharing
+  5. User can delete a message
+  6. Post reporting 
+  7. Admin can delete a reported post
+  8. Social Sharing
+  9. Unfriend 
+  10. User block
+  11. Many more 
+
    
    Note : If you have any suggestion or any extra feature you want in next release please mail us (mayorainfotech@gmail.com).
    
